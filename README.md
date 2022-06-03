@@ -36,3 +36,13 @@ type alias Foo = ...
 
 type alias Bar = ...
 ```
+
+## Pizzas 🍕
+
+aka "pipes". We prefer right-pizza `|>` over left-pizza `<|` because
+
+1. It's more common in Elm
+2. It makes for better-looking formatting
+3. It's easier to read (unless you're coming from Haskell 😬)
+
+It's fine to use left-pizza when it makes sense, but our default should be right-pizza.
