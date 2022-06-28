@@ -1,0 +1,4 @@
+# Add 'insurance' label to any root file changes
+# https://github.com/marketplace/actions/labeler#common-examples
+insurance:
+  - "*"
